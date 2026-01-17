@@ -1,7 +1,7 @@
 ## 📅 Week 1 – Java Programming Fundamentals
 
 <details>
-<summary>Day wise -</summary>
+<summary>Week 1 Details</summary>
 
 ---
 
